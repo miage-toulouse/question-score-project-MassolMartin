@@ -1,8 +1,8 @@
 # MIAGe Master 1 - TP Tests 1
 
-### NOM : DOE
-### Prénom : John
-### Groupe de TP : 
+### NOM : MASSOL
+### Prénom : Martin
+### Groupe de TP : 2
 - [ ] 1
 - [x] 2
 - [ ] 3

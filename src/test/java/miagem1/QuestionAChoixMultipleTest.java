@@ -21,12 +21,7 @@ public class QuestionAChoixMultipleTest {
 
     @Test
     public void testgetEnonce() {
-        // when : on demande l'énoncé de la question
-        String enonce = QACM.getEnonce();
-        // Then : l'énoncé est non null
-        assertNotNull(enonce);
-        // and : l'énoncé est bien celui de la construction
-        assertEquals(enonce,"un enonce");
+        assertEquals("un enonce", QACM.getEnonce());
     }
 
     @Test
